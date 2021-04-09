@@ -6,7 +6,7 @@ I am Wolfie! I work on many things. I know Node.JS, HTML, and CSS. I have even m
 
 🤖 [Discord Embed Generator](https://github.com/wolfiediscord/discord-embed-generator)
 
-💻 [My Website](https://wolfie.glitch.me)
+💻 [My Website](https://wolf1e.ga)
 
 ## 🐧 Linux Projects
 
