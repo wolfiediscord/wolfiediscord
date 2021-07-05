@@ -8,6 +8,8 @@ I am Wolfie! I work on many things. I know Node.JS, HTML, and CSS. I have even m
 
 💻 [My Website](https://wolf1e.ga)
 
+🍎 [Chromium Legacy Updater](https://github.com/wolfiediscord/chromium-legacy-updater)
+
 ## 🐧 Linux Projects
 
 🗔 [My DWM Build](https://github.com/wolfiediscord/dwm)
