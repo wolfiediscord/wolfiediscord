@@ -2,7 +2,9 @@
 I am Wolfie! I work on many things. I know Node.JS, HTML, and CSS. I have even made my own website! You can check out some of the repositories I have made. 
 
 ## 📔 Projects
-🐺 [WolfieCBOT](https://github.com/wolfiediscord/wolfiecbot-akairo)
+📆 [Planbook Scraper.JS](https://github.com/wolfiediscord/planbook-scraper-js) 
+
+🐺 [WolfieCBOT (archived)](https://github.com/wolfiediscord/wolfiecbot-akairo)
 
 🤖 [Discord Embed Generator](https://github.com/wolfiediscord/discord-embed-generator)
 
@@ -16,9 +18,9 @@ I am Wolfie! I work on many things. I know Node.JS, HTML, and CSS. I have even m
 
 💻 [My ST Build](https://github.com/wolfiediscord/st)
 
-🖌 [My AwesomeWM Theme](https://github.com/wolfiediscord/material-awesome)
+🖌 [My AwesomeWM Theme (archived)](https://github.com/wolfiediscord/material-awesome)
 
-🖌 [My AwesomeWM Theme Based around Lubuntu 20.04](https://github.com/wolfiediscord/material-awesome-lxqt)
+🖌 [My AwesomeWM Theme Based around Lubuntu 20.04 (archived)](https://github.com/wolfiediscord/material-awesome-lxqt)
 
 
 
